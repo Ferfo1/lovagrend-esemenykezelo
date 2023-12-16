@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Teszt Esem\u00e9ny",
+        "startDate": "2027-12-30",
+        "endDate": "2027-12-31",
+        "startTime": "10:29",
+        "endTime": "10:30",
+        "location": "Teszt",
+        "city": "Teszt V\u00e1ros",
+        "program": "1702114145_esemeny.pdf",
+        "phoneNumber": "+36204183406",
+        "comments": "Teszt"
+    }
+]
